@@ -1,3 +1,11 @@
+"""
+RNN Language Model.
+
+Author: Apala Pramanik
+Description: Multi-layer character-level RNN for language modeling.
+             Architecture: tokens → embedding → RNN layers → linear head
+"""
+
 import torch
 import torch.nn as nn
 from .rnn_cell import RNNCell

@@ -1,3 +1,11 @@
+"""
+Vanilla RNN cell implementation.
+
+Author: Apala Pramanik
+Description: Single RNN cell computing h_t = tanh(W_x * x_t + W_h * h_{t-1})
+"""
+
+import torch
 import torch.nn as nn
 
 

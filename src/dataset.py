@@ -1,3 +1,11 @@
+"""
+Character-level dataset for language modeling.
+
+Author: Apala Pramanik
+Description: Converts text into character sequences for training RNN models.
+             Provides input-target pairs with sliding window approach.
+"""
+
 import torch
 
 
