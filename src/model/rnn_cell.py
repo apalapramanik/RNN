@@ -1,4 +1,3 @@
-/Users/apalapramanik/Documents/LSTM/train.py /Users/apalapramanik/Documents/LSTM/src /Users/apalapramanik/Documents/LSTM/requirements.txt /Users/apalapramanik/Documents/LSTM/README.md /Users/apalapramanik/Documents/LSTM/data/Users/apalapramanik/Documents/LSTM/train.py /Users/apalapramanik/Documents/LSTM/src /Users/apalapramanik/Documents/LSTM/requirements.txt /Users/apalapramanik/Documents/LSTM/README.md /Users/apalapramanik/Documents/LSTM/dataimport torch
 import torch.nn as nn
 
 
